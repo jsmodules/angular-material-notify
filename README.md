@@ -16,7 +16,7 @@ has been displayed.
 
 ```javascript
 
-angular.module("myApp").controller("myCtrl", function("$notifyMd") {
+angular.module("myApp", ["ngMaterial", "notifyMd"]).controller("myCtrl", function("$notifyMd") {
 
     $notifyMd("Hello, world").then(function() {
         $notifyMd("The message was shown");
