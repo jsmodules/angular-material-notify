@@ -1,0 +1,53 @@
+{
+  "name": "notifymd",
+  "version": "0.1.0",
+  "description": "HTML5 Notifications with a Angular Material $mdToast fallback",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alertifyjs/notifyMd.git"
+  },
+  "keywords": [
+    "html5",
+    "notifications",
+    "angular",
+    "angularjs",
+    "material",
+    "toast",
+    "visibility",
+    "alertify",
+    "alertifyjs",
+    "alertify.js"
+  ],
+  "author": "Brad Berger <brad@bradb.net>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/alertifyjs/notifyMd/issues"
+  },
+  "homepage": "https://github.com/alertifyjs/notifyMd#readme",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-animate": "^1.4.7",
+    "angular-aria": "^1.4.7",
+    "angular-material": "^0.11.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.7",
+    "browser-sync": "^2.9.10",
+    "eslint": "^1.6.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-uglify": "^1.4.1",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-jasmine": "^0.3.6",
+    "karma-sauce-launcher": "^0.2.14"
+  }
+}

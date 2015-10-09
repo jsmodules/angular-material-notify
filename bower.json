@@ -1,0 +1,32 @@
+{
+  "name": "notifymd",
+  "version": "0.1.0",
+  "authors": [
+    "Brad Berger <brad@bradb.net>"
+  ],
+  "description": "HTML5 Notifications with a Angular Material $mdToast fallback",
+  "main": "dist/notifyMd.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "material",
+    "notifications",
+    "mdToast",
+    "alertify",
+    "alertifyjs",
+    "alertify.js",
+    "visibility",
+    "javascript",
+    "html5"
+  ],
+  "license": "MPL-2.0",
+  "homepage": "https://github.com/alertifyjs/notifyMd",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
