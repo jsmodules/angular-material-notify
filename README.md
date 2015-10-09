@@ -1,5 +1,7 @@
 # NotifyMd Module
 
+[![Build Status](https://semaphoreci.com/api/v1/projects/07a38dfb-1028-492e-932e-4e39361eba94/565623/badge.svg)](https://semaphoreci.com/alertifyjs/notifymd)
+
 A light wrapper around HTML5 notification API and Angular Material's
 `$mdToast` service. It shows notifications with the HTML5 notifications by
 default, but falls back to use `$mdToast` if not available.
