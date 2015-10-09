@@ -1,4 +1,4 @@
-# Notify-Md Module
+# NotifyMd Module
 
 A light wrapper around HTML5 notification API and Angular Material's
 `$mdToast` service. It shows notifications with the HTML5 notifications by
